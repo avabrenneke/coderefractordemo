@@ -2,6 +2,11 @@
 UCLA Homework assignment #1
 # Refractoring Horiseon's Information Website
 The task included refractoring Horiseon's website to improve accessibility
+<br>
+See below final webpage
+<img src="images/web_screenshot_1.jpg">
+<img src="images/web_screenshot_2.jpg">
+<img src="images/web_screenshot_3.jpg">
 # Features
 Improved accessibility
 <br>
