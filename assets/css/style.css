@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header Styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +41,7 @@ body {
     margin-left: 25px;
 }
 
+/* General Styles */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -59,6 +60,7 @@ p {
     background-position: center;
 }
 
+/* Alignment Styles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+/* Benefits Styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +105,7 @@ p {
     max-width: 150px;
 }
 
+/* Article Styles */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +124,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer Styles */
 .footer {
     padding: 30px;
     clear: both;
